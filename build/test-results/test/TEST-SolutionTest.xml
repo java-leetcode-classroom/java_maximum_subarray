@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-15T15:40:04" hostname="yuanyu-ubuntu" time="0.049">
+  <properties/>
+  <testcase name="maxSubArrayExample1()" classname="SolutionTest" time="0.044"/>
+  <testcase name="maxSubArrayExample2()" classname="SolutionTest" time="0.002"/>
+  <testcase name="maxSubArrayExample3()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
